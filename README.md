@@ -3,14 +3,9 @@
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <style>
-          section{
-               padding: 10px;
-          }
-     </style>
 </head>
 <body>
-     <section>
+     <section style="padding: 10px;">
           <div>
                <h1>Hello, I'm Omkar</h1>
                <h3>Frontend Web Developer</h3>
