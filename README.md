@@ -3,14 +3,18 @@
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <style>
+          section{
+               padding: 10px;
+          }
+     </style>
 </head>
 <body>
-     <section class="p-3">
+     <section>
           <div>
-               <h1 class="text-3xl">Hello, I'm Omkar</h1>
-               <h3 class="text-2xl font-semibold">Frontend Web Developer</h3>
+               <h1>Hello, I'm Omkar</h1>
+               <h3>Frontend Web Developer</h3>
           </div>
      </section>
-     <script src="https://cdn.tailwindcss.com"></script>
 </body>
 </html>
