@@ -8,7 +8,7 @@
      <section style="padding: 10px; font-family: 'Courier New', Courier, monospace;">
           <div>
                <h1>Hello, I'm Omkar</h1>
-               <h3>Frontend Web Developer</h3>
+               <h3>Frontend Developer</h3>
           </div>
      </section>
 </body>
